@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 I'm currently studying Software Development <br>and also English.<br>🗣️ I speak native Spanish.<br>🙋🏻‍♀️ I really enjoy learning new things, working as <br>a team and helping with anything.
+# About Me: I'm currently studying Software Development <br>and also English.<br> I speak native Spanish.<br> I really enjoy learning new things, working as <br>a team and helping with anything.
 
 
 ## 🌐 Socials:
